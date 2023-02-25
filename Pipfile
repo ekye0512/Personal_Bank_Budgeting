@@ -13,6 +13,7 @@ plotly-express = "==0.4.0"
 scikit-learn = "*"
 requests = "*"
 streamlit-lottie = "*"
+importlib-resources = "*"
 
 [dev-packages]
 
