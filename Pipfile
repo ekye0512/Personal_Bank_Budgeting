@@ -14,9 +14,9 @@ scikit-learn = "*"
 requests = "*"
 streamlit-lottie = "*"
 importlib-resources = "*"
+pathlib = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.10"
- 
