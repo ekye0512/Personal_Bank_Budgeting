@@ -52,8 +52,7 @@ with st.container():
 st.write("---")
 
 
-df_mint = pd.read_csv(
-    '/Users/eric/Documents/Github/Personal_Bank_Budgeting/transactions.csv')
+df_mint = pd.read_csv('transactions.csv')
 
 
 for x in df_mint.index:
